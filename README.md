@@ -1,1 +1,1 @@
-# road
+# pip install pygame
